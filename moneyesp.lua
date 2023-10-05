@@ -5,6 +5,6 @@ for i, player in pairs(players) do
   highlight.Adornee = player.Character
   highlight.Parent = player.Character
 
-  highlight.OutlineColor = Color3.new(0, 1, 0)
+  highlight.OutlineColor = Color3.new(0, 255, 0)
   highlight.Transparency = 0.5
 end
